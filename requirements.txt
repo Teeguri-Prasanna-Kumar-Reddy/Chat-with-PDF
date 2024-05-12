@@ -1,0 +1,11 @@
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+pypdf
+chromadb
+faiss-cpu
+langchainhub
+langchain_groq
+bs4
+cassio
